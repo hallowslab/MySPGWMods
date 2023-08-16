@@ -1,0 +1,188 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.40
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.40
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	0.50
+	Quantity:	1500
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	PriceModifier:	0.50
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	BIO_CIRCUITRY
+{
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	MINING_CRYSTALS
+{
+	Producing: 	1
+}
+Commodity:	REPAIR_GEL
+{
+	Producing: 	1
+}
+Commodity:	ENERGY_CELLS
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	THRUSTERS
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	ATR
+{
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
+Commodity:	STATION_COMPOSITES
+{
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	COMBAT_MECHS
+{
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	ANDROID_PARTS
+{
+	Producing: 	1
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+}

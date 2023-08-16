@@ -1,0 +1,153 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+Commodity:	ICE
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	FISH
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	VANTUS_EGGS
+{
+	PriceModifier:	0.75
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	HEAVY_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	NEXUS_RIFT_STABILIZERS
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	ANDROID_PARTS
+{
+	Producing: 	1
+}

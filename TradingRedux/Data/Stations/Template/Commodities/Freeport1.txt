@@ -1,0 +1,185 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	2000
+}
+Commodity:	ICE
+{
+	Producing: 	1
+}
+Commodity:	SULFUR
+{
+	Producing: 	1
+}
+Commodity:	PHOSPHOROUS
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	SHARD
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	SOYFOOD
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_ALE
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+}
+Commodity:	ARACHOS_SILK
+{
+	Producing: 	1
+}
+Commodity:	SCARAB_HUSK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_TUSK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	REPAIR_GEL
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	ATR
+{
+	Producing: 	1
+}
+Commodity:	X900
+{
+	Producing: 	1
+}
+Commodity:	COMBAT_MECHS
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}

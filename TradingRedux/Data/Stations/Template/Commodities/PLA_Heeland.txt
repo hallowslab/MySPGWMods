@@ -1,0 +1,125 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.40
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.40
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	PriceModifier:	0.75
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	PriceModifier:	0.75
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{
+	PriceModifier:	0.30
+}
+Commodity:	THAURIAN_WEED
+{
+	PriceModifier:	0.30
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	PriceModifier:	0.30
+}
+Commodity:	NYXIAN_ALE
+{
+	PriceModifier:	0.30
+}
+Commodity:	VANTUS_EGGS
+{
+	PriceModifier:	0.30
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	PriceModifier:	0.30
+}
+Commodity:	RIFT_DUST
+{
+	PriceModifier:	0.30
+}
+Commodity:	TRIAHAL
+{
+	PriceModifier:	0.30
+}
+Commodity:	TARK_TEA
+{
+	PriceModifier:	0.30
+}
+Commodity:	ARACHOS_SILK
+{
+	PriceModifier:	0.30
+}
+Commodity:	SCARAB_HUSK
+{
+	PriceModifier:	0.30
+}
+Commodity:	BRUNT_TUSK
+{
+	PriceModifier:	0.30
+}
+Commodity:	BRUNT_FUR
+{
+	PriceModifier:	0.30
+}
+Commodity:	PREFAB_SHELTERS
+{
+	PriceModifier:	1.30
+}
+Commodity:	HOLOGAMES
+{
+	PriceModifier:	1.30
+}
+Commodity:	FERTILIZERS
+{
+	PriceModifier:	1.30
+}
+Commodity:	MEDICINES
+{
+	PriceModifier:	1.30
+}
+Commodity:	UTILITY_DROIDS
+{
+	PriceModifier:	1.30
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	PriceModifier:	1.30
+}
+Commodity:	SANCTUM_VI
+{
+	PriceModifier:	1.30
+}
+Commodity:	SHIPPING_DRONES
+{
+	PriceModifier:	1.30
+}

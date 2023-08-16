@@ -1,0 +1,157 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	1000
+}
+Commodity:	COPPER
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	SHARD
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	FISH
+{
+	Producing: 	1
+}
+Commodity:	CROPS
+{
+	Producing: 	1
+}
+Commodity:	THAURIAN_WEED
+{
+	Producing: 	1
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}
+Commodity:	ARACHOS_SILK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_TUSK
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	REPAIR_GEL
+{
+	Producing: 	1
+}
+Commodity:	ENERGY_CELLS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	ANDROID_PARTS
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}

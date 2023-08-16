@@ -1,0 +1,169 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	2000
+}
+Commodity:	ICE
+{
+	Producing: 	1
+}
+Commodity:	CARBON
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	CROPS
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	VANTUS_EGGS
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}
+Commodity:	SCARAB_HUSK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	ATR
+{
+	Producing: 	1
+}
+Commodity:	HEAVY_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	STATION_COMPOSITES
+{
+	Producing: 	1
+}
+Commodity:	COMBAT_MECHS
+{
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}

@@ -1,0 +1,104 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.60
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	0.60
+	Quantity:	1500
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	COMBAT_MECHS
+{
+	Producing: 	1
+}
+Commodity:	NEXUS_RIFT_STABILIZERS
+{
+	Producing: 	1
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	PHASING_DEVICES
+{
+	Producing: 	1
+}
+Commodity:	ANDROID_PARTS
+{
+	Producing: 	1
+}

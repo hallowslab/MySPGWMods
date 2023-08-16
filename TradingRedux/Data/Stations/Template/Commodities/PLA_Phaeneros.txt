@@ -1,0 +1,126 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+Commodity:	PHOSPHOROUS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	COPPER
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	FISH
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SOYFOOD
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}

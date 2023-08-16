@@ -1,0 +1,171 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	0.50
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	FISH
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	CROPS
+{
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	BIO_CIRCUITRY
+{
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	THRUSTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{	
+	PriceModifier:	1.50
+}
+Commodity:	THAURIAN_WEED
+{	
+	PriceModifier:	1.50
+}
+Commodity:	SQUIBB_TENTACLES
+{	
+	PriceModifier:	1.50
+}
+Commodity:	NYXIAN_ALE
+{	
+	PriceModifier:	1.50
+}
+Commodity:	VANTUS_EGGS
+{	
+	PriceModifier:	1.50
+}
+Commodity:	AMMARTAN_ALGAE
+{	
+	PriceModifier:	1.50
+}
+Commodity:	RIFT_DUST
+{	
+	PriceModifier:	1.50
+}
+Commodity:	TRIAHAL
+{	
+	PriceModifier:	1.50
+}
+Commodity:	TARK_TEA
+{	
+	PriceModifier:	1.50
+}
+Commodity:	ARACHOS_SILK
+{	
+	PriceModifier:	1.50
+}
+Commodity:	SCARAB_HUSK
+{	
+	PriceModifier:	1.50
+}
+Commodity:	BRUNT_TUSK
+{	
+	PriceModifier:	1.50
+}
+Commodity:	BRUNT_FUR
+{	
+	PriceModifier:	1.50
+}
+Commodity:	HOLOGAMES
+{	
+	PriceModifier:	1.50
+}
+Commodity:	CYBERNET_IMPLANTS
+{	
+	PriceModifier:	1.50
+}

@@ -1,0 +1,135 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.80
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.60
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	0.60
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	0.60
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+Commodity:	CARBON
+{
+	Producing: 	1
+}
+Commodity:	IONIDE
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	FISH
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	CROPS
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}

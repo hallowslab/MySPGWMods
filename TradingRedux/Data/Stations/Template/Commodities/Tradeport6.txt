@@ -1,0 +1,129 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	600
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	600
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	600
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	600
+}
+Commodity:	PHOSPHOROUS
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	CROPS
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	Producing: 	1
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+}
+Commodity:	PHASING_DEVICES
+{
+	Producing: 	1
+}
+Commodity:	ANDROID_PARTS
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}

@@ -1,0 +1,121 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	600
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	600
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	600
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	600
+}
+Commodity:	IONIDE
+{
+	Producing: 	1
+}
+Commodity:	SULFUR
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}
+Commodity:	BIO_CIRCUITRY
+{
+	Producing: 	1
+}
+Commodity:	ENERGY_CELLS
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}

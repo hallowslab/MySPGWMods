@@ -1,0 +1,129 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	600
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	600
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	600
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	600
+}
+Commodity:	CARBON
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	SOYFOOD
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	ARACHOS_SILK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	Producing: 	1
+}
+Commodity:	HEAVY_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	X900
+{
+	Producing: 	1
+}
+Commodity:	STATION_COMPOSITES
+{
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}

@@ -1,0 +1,88 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.85
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.85
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	0.85
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	PriceModifier:	0.65
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+}
+Commodity:	REPAIR_GEL
+{
+	Producing: 	1
+}
+Commodity:	ENERGY_CELLS
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	STATION_COMPOSITES
+{
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+}

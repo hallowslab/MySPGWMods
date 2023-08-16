@@ -1,0 +1,162 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.00
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.15
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	SHARD
+{
+	PriceModifier:	0.50
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	PriceModifier:	0.40
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	PriceModifier:	0.40
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	PriceModifier:	0.65
+	Producing: 	1
+}
+Commodity:	PLASMA_RIFLES
+{
+	PriceModifier:	0.65
+	Producing: 	1
+}
+Commodity:	HEAVY_WEAPONS
+{
+	PriceModifier:	0.65
+	Producing: 	1
+}
+Commodity:	SHARD_BLADES
+{
+	PriceModifier:	0.65
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	PriceModifier:	1.50
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	PriceModifier:	1.50
+}
+Commodity:	UTILITY_DROIDS
+{
+	PriceModifier:	1.50
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	PriceModifier:	1.50
+}
+Commodity:	COMBAT_MECHS
+{
+	PriceModifier:	1.50
+}
+Commodity:	NYXIAN_RIFLES
+{
+	PriceModifier:	1.50
+}
+Commodity:	NEXUS_RIFT_STABILIZERS
+{
+	PriceModifier:	1.50
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	PriceModifier:	1.50
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	PriceModifier:	1.50
+}
+Commodity:	SANCTUM_VI
+{
+	PriceModifier:	1.50
+}
+Commodity:	SHIPPING_DRONES
+{
+	PriceModifier:	1.50
+}
+Commodity:	PHASING_DEVICES
+{
+	PriceModifier:	1.50
+}
+Commodity:	ANDROID_PARTS
+{
+	PriceModifier:	1.50
+}

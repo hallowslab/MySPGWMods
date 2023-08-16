@@ -1,0 +1,172 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.75
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.10
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_TUSK
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	ICE
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	PLASMA_RIFLES
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	HEAVY_WEAPONS
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	X900
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	COMBAT_MECHS
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	SULFUR
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	GOLD
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	SOYFOOD
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	ENERGY_CELLS
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	Producing: 	1
+}

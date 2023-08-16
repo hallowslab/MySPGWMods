@@ -1,0 +1,128 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.50
+	Quantity:	1500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.50
+	Quantity:	1500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.50
+	Quantity:	1500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.25
+	Quantity:	1500
+}
+Commodity:	SULFUR
+{
+	Producing: 	1
+}
+Commodity:	PHOSPHOROUS
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	ARACHOS_SILK
+{
+	PriceModifier:	0.60
+	Producing: 	1
+}
+Commodity:	X900
+{
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}

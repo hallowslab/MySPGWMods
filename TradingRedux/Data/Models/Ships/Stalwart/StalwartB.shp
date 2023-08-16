@@ -9,7 +9,7 @@ ShipBase:
 		Value:	300000
 		Maneuver:	1.50
 		Hull:	11000.00
-		Cargo:	175
+		Cargo:	350
 		Crew:	40
 		Hangar:	0
 		Cloak:	0

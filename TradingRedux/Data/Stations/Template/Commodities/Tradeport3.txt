@@ -1,0 +1,133 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	600
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	600
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	600
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	600
+}
+Commodity:	ICE
+{
+	Producing: 	1
+}
+Commodity:	COPPER
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	ATR
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}

@@ -1,0 +1,43 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.25
+	Quantity:	500
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.25
+	Quantity:	500
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.00
+	Quantity:	500
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	0.50
+	Quantity:	500
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	0.75
+	Quantity:	500
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	0.50
+	Quantity:	500
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	MINING_CRYSTALS
+{
+	Producing: 	1
+}
+Commodity:	EXPLOSIVES
+{
+	Producing: 	1
+}

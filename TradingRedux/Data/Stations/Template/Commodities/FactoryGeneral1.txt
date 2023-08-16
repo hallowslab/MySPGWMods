@@ -1,0 +1,37 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.50
+	Quantity:	1000
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.25
+	Quantity:	1000
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.25
+	Quantity:	1000
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	0.60
+	Quantity:	1000
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SURGICAL
+{
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}

@@ -1,0 +1,197 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	2000
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	2000
+}
+Commodity:	COPPER
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+}
+Commodity:	XENON
+{
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	VEGETABLES
+{
+	Producing: 	1
+}
+Commodity:	HOGWASH
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_ALE
+{
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_TUSK
+{
+	Producing: 	1
+}
+Commodity:	BRUNT_FUR
+{
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	THRUSTERS
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	ATR
+{
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	Producing: 	1
+}
+Commodity:	NEXUS_RIFT_STABILIZERS
+{
+	Producing: 	1
+}
+Commodity:	RECYCLER_NANOBOTS
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	EXONDS
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+}
+Commodity:	TRIAHAL
+{
+	Producing: 	1
+}

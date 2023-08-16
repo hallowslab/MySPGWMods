@@ -1,0 +1,165 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	1000
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	1000
+}
+Commodity:	ICE
+{
+	Producing: 	1
+}
+Commodity:	COPPER
+{
+	Producing: 	1
+}
+Commodity:	SILICON
+{
+	Producing: 	1
+}
+Commodity:	SILVER
+{
+	Producing: 	1
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	SHARD
+{
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	Producing: 	1
+}
+Commodity:	MEAT
+{
+	Producing: 	1
+}
+Commodity:	PROTEIN_BARS
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_ALE
+{
+	Producing: 	1
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL_MATRIX
+{
+	Producing: 	1
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+}
+Commodity:	BIO_CIRCUITRY
+{
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+}
+Commodity:	PLASMA_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	Producing: 	1
+}
+Commodity:	X900
+{
+	Producing: 	1
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+}
+Commodity:	CYBERNET_IMPLANTS
+{
+	Producing: 	1
+}
+Commodity:	SHARD_BLADES
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_RIFLES
+{
+	Producing: 	1
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	Producing: 	1
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+}
+Commodity:	SHIPPING_DRONES
+{
+	Producing: 	1
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	RIFT_DUST
+{
+	Producing: 	1
+}

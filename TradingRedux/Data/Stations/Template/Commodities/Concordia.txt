@@ -1,0 +1,136 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	1.10
+	Quantity:	800
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	1.10
+	Quantity:	800
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.25
+	Quantity:	800
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.25
+	Quantity:	800
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.25
+	Quantity:	800
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.25
+	Quantity:	800
+}
+Commodity:	COPPER
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	THORIUM
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	TELLURIUM
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SPICE
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	ALUMINUM_FOILS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	HOLO_PROJECTORS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	ANTIGRAV_COILS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	AIR_FILTERS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	THRUSTERS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	ENVIROSUITS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	HOLOGAMES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	MINING_CHARGES
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	FERTILIZERS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	HYDROPONICS_POD
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	EMPIRE_ARTIFACTS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}
+Commodity:	ASHRIARI_GLYPHS
+{
+	PriceModifier:	0.85
+	Producing: 	1
+}

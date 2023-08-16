@@ -1,0 +1,125 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	600
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	600
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	600
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	600
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	600
+}
+Commodity:	CARBON
+{
+	Producing: 	1
+}
+Commodity:	PHOSPHOROUS
+{
+	Producing: 	1
+}
+Commodity:	COPPER
+{
+	Producing: 	1
+}
+Commodity:	IRON
+{
+	Producing: 	1
+}
+Commodity:	GRANITE
+{
+	Producing: 	1
+}
+Commodity:	CRYSTAL
+{
+	Producing: 	1
+}
+Commodity:	SHARD
+{
+	Producing: 	1
+}
+Commodity:	SEA_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	SOYFOOD
+{
+	Producing: 	1
+}
+Commodity:	SQUIBB_TENTACLES
+{
+	Producing: 	1
+}
+Commodity:	NYXIAN_ALE
+{
+	Producing: 	1
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+}
+Commodity:	INFUSED_CORE
+{
+	Producing: 	1
+}
+Commodity:	MINING_CRYSTALS
+{
+	Producing: 	1
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	CLOTHES
+{
+	Producing: 	1
+}
+Commodity:	SOLAR_PANELS
+{
+	Producing: 	1
+}
+Commodity:	LASER_SIDEARM
+{
+	Producing: 	1
+}
+Commodity:	X900
+{
+	Producing: 	1
+}
+Commodity:	SHARD_BLADES
+{
+	Producing: 	1
+}
+Commodity:	CHEMICAL_WEAPONS
+{
+	Producing: 	1
+}
+Commodity:	AMMARTAN_ALGAE
+{
+	Producing: 	1
+}
+Commodity:	TARK_TEA
+{
+	Producing: 	1
+}

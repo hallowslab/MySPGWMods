@@ -1,0 +1,165 @@
+txt
+CommoditiesGroup:	ORE
+{
+	Quantity:	300
+}
+CommoditiesGroup:	GAS
+{
+	Quantity:	300
+}
+CommoditiesGroup:	CONSUMABLE
+{
+	Quantity:	300
+}
+CommoditiesGroup:	MATERIAL
+{
+	Quantity:	300
+}
+CommoditiesGroup:	COMPONENT
+{
+	Quantity:	300
+}
+CommoditiesGroup:	PRODUCT
+{
+	Quantity:	300
+}
+Commodity:	TITANIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	THORIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	TELLURIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	URANIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	PLUTONIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	DIAMOND
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	HYDROGEN
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	OXYGEN
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	HELIUM
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	XENON
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	UTILITY_DROIDS
+{
+	Producing: 	1
+	PriceModifier:	1.10
+}
+Commodity:	WOOD
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	LEATHER
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	STEEL
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	ALUMINUM_FOILS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	UNIGLASS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	TITANOVA_PLATES
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	BIOPLASTICS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	HOLO_PROJECTORS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	SUPERCONDUCTORS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	BIO_CIRCUITRY
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	ANTIGRAV_COILS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	AIR_FILTERS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	REPAIR_GEL
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	THRUSTERS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	QUANTUM_SUPERCOMPUTERS
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	SANCTUM_VI
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}
+Commodity:	SATELLITE_DISHES
+{
+	Producing: 	1
+	PriceModifier:	1.25
+}

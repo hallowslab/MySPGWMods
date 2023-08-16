@@ -1,0 +1,39 @@
+txt
+CommoditiesGroup:	ORE
+{	
+	PriceModifier:	0.80
+	Quantity:	200
+}
+CommoditiesGroup:	GAS
+{	
+	PriceModifier:	0.80
+	Quantity:	200
+}
+CommoditiesGroup:	CONSUMABLE
+{	
+	PriceModifier:	1.10
+	Quantity:	200
+}
+CommoditiesGroup:	MATERIAL
+{	
+	PriceModifier:	1.00
+	Quantity:	200
+}
+CommoditiesGroup:	COMPONENT
+{	
+	PriceModifier:	1.10
+	Quantity:	200
+}
+CommoditiesGroup:	PRODUCT
+{	
+	PriceModifier:	1.00
+	Quantity:	200
+}
+Commodity:	PREFAB_SHELTERS
+{
+	Producing: 	1
+}
+Commodity:	MEDICINES
+{
+	Producing: 	1
+}
