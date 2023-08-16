@@ -1,0 +1,236 @@
+txt	
+ShipModel:	
+{	
+		Name:	Data\Models\Ships\Caelifera\FREIGHTER.asb
+}	
+ShipBase:	
+{	
+		Name:	Caelifera
+		Value:	750000
+		Maneuver:	1.40
+		Hull:	20000.00
+		Cargo:	550
+		Crew:	50
+		Hangar:	0
+		Cloak:	0
+		Descript:	CHA_CAELIFERA_TXT
+		Soak:	0.05
+		Mass:	175.00
+		AngularDamping:	0.00
+		Evasion:	0.02
+		LandingPoint:	0.00	-2.21	0.00
+}	
+ShipEffectPoints:	
+{	
+	No:	16
+	0.84	-1.30	5.53
+	2.45	-1.32	5.13
+	2.46	-2.28	1.17
+	3.06	1.61	1.43
+	3.28	0.00	-1.78
+	3.58	-1.77	-4.51
+	2.55	0.10	-4.86
+	1.37	0.17	-5.89
+	-0.84	-1.30	5.53
+	-2.45	-1.32	5.13
+	-2.46	-2.28	1.17
+	-3.06	1.61	1.43
+	-3.28	0.00	-1.78
+	-3.58	-1.77	-4.51
+	-2.55	0.10	-4.86
+	-1.37	0.17	-5.89
+}	
+ShipTrails:	
+{	
+	Particles:	4
+	TrailModelsStart:	10
+	TrailModels:	1
+	TrailSizeMin:	2.40
+	TrailSizeMax:	4.20
+	Trail:	
+	{	
+		Position:	1.010	-0.380	-9.000
+		TrailLengthMax:	50.000
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.00	0.04	0.07
+	}	
+	Trail:	
+	{	
+		Position:	-1.010	-0.380	-9.000
+		TrailLengthMax:	50.000
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.00	0.04	0.07
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	-1.01	-0.38	-9.00
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	1.01	-0.38	-9.00
+	}	
+}	
+ShipWeapons:	
+{	
+	WeaponsPower:	45.00
+	WeaponsPowerRefill:	3.00
+	WeaponsPowerDownTime:	8.00
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	0.00	1.13	7.63
+			Rotation:	0.00	0.00	0.00
+			Scale:	0
+			HorizontalArcMinus:	3.00
+			HorizontalArcPlus:	3.00
+			VerticalArcMinus:	0.26
+			VerticalArcPlus:	2.90
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.00	1.19	6.90
+			Rotation:	0.00	0.00	0.00
+			Scale:	0
+			HorizontalArcMinus:	3.00
+			HorizontalArcPlus:	3.00
+			VerticalArcMinus:	0.11
+			VerticalArcPlus:	3.00
+		}	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+}	
+ShipHeavyWeapons:	
+{	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	-4.15	33.00
+			Rotation:	0.00	0.00	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	8
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+}	
+PowerCore:	
+{	
+	Hp:	1000.00
+	Firewall:	0.30
+	Power:	60.00
+	EnergyRecharge:	0.70
+	Feedback:	0.00
+}	
+Propulsion:	
+{	
+	Hp:	4000.00
+	Firewall:	0.00
+	Speed:	60.00
+	Acceleration:	1.00
+	PowerToEngines:	2.50
+}	
+Sensors:	
+{	
+	Hp:	1000.00
+	Firewall:	0.00
+	SensorRadius:	2000.00
+	Detection:	0.10
+}	
+Grappler:	
+{	
+	Hp:	1000.00
+	Firewall:	0.00
+	GrappleRange:	230.00
+	Overload:	0.00
+}	
+Transporter:	
+{	
+	Hp:	1000.00
+	Firewall:	0.00
+	TransportRange:	1000.00
+	Capacity:	8.00
+	Deflection:	0.00
+}	
+Hangar:	
+{	
+	Hp:	1000.00
+	Firewall:	0.00
+	PreLaunch:	1.00
+	Fuel:	1.00
+	WingNo:	0
+}	
+Cloak:	
+{	
+	Hp:	1000.00
+	Firewall:	0.00
+	CloakStrength:	0.50
+	ClaokStability:	0.50
+}	
+ShipShields:	
+{	
+	Strength:	1150.00
+	Recharge:	4.00
+	Reboot:	5.00
+	Hp:	1000.00
+	Firewall:	0.00
+	Biometric:	0.20
+	ResistanceEnergy:	0.00
+	ResistanceProjectile:	0.00
+	ResistancePlasma:	0.00
+	ResistanceRadiation:	0.20
+	ResistanceEMP:	0.15
+}	
+ShipShieldsMesh:	
+{	
+	MeshName:	Data\Models\Sphere\ShipSphereShield7_2.mdl
+	Scale:	12.00	10.00	25.00
+	Position:	0.00	0.00	0.00
+}	
+ShipDerelict:	
+{	
+	Derelict:	CAELIFERA
+}	
+Events:	
+{	
+		OnDestroy:	Data\Scripts\ShipDefault\OnDestroy.sal
+		OnCriticalHit:	Data\Scripts\ShipDefault\OnCritical.sal
+		OnHP75:	Data\Scripts\ShipDefault\OnHP75.sal
+		OnHP50:	Data\Scripts\ShipDefault\OnHP50.sal
+		OnHP25:	Data\Scripts\ShipDefault\OnHP25.sal
+		OnTDriveEnd:	Data\SpecialEffect\TDriveFlash\deactivation.sal
+		OnTransport:	Data\Scripts\ShipDefault\OnTransport.sal
+		OnTargetLock:	Data\Scripts\ShipDefault\OnTargetLock.sal
+}	
+MountedCamera:	
+{	
+	Position:	0.00	3.00	-5.80
+	HorizontalOffset:	0.00
+	VerticalOffset:	0.00
+	FrontCamPosition: 0.00	-1.00	-7.50
+}	

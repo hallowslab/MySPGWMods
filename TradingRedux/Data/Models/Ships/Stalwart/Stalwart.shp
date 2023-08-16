@@ -1,0 +1,222 @@
+txt	
+ShipModel:	
+{	
+		Name:	Data\Models\Ships\Stalwart\Stalwart.asb
+}	
+ShipBase:	
+{	
+		Name:	Stalwart
+		Value:	300000
+		Maneuver:	1.50
+		Hull:	11000.00
+		Cargo:	175
+		Crew:	40
+		Hangar:	0
+		Cloak:	0
+		Descript:	CHA_STALWART_TXT
+		Soak:	0.05
+		Mass:	175.00
+		AngularDamping:	0.00
+		Evasion:	0.01
+		LandingPoint:	0.00	-2.75	0.00
+}	
+ShipEffectPoints:	
+{	
+	No:	16
+	0.84	-1.30	5.53
+	2.45	-1.32	5.13
+	2.46	-2.28	1.17
+	3.06	1.61	1.43
+	3.28	0.00	-1.78
+	3.58	-1.77	-4.51
+	2.55	0.10	-4.86
+	1.37	0.17	-5.89
+	-0.84	-1.30	5.53
+	-2.45	-1.32	5.13
+	-2.46	-2.28	1.17
+	-3.06	1.61	1.43
+	-3.28	0.00	-1.78
+	-3.58	-1.77	-4.51
+	-2.55	0.10	-4.86
+	-1.37	0.17	-5.89
+}	
+ShipTrails:	
+{	
+	Particles:	1
+	TrailModelsStart:	7
+	TrailModels:	2
+	TrailSizeMin:	0.40
+	TrailSizeMax:	5.00
+	Trail:	
+	{	
+		Position:	-0.010	0.610	-5.130
+		TrailLengthMax:	70.000
+		Width:	1.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.01	0.03	0.06
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	2
+		Position:	-0.01	0.61	-5.00
+	}	
+}	
+ShipWeapons:	
+{	
+	WeaponsPower:	40.00
+	WeaponsPowerRefill:	3.00
+	WeaponsPowerDownTime:	8.00
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	2.39	3.50	-0.36
+			Rotation:	0.00	0.00	0.00
+			Scale:	0
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.50
+			VerticalArcPlus:	3.10
+		}	
+		TurretSlot:	
+		{	
+			Position:	-3.23	-0.65	-1.57
+			Rotation:	0.00	0.00	1.57
+			Scale:	0
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.50
+			VerticalArcPlus:	3.10
+		}	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+}	
+ShipHeavyWeapons:	
+{	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.39	5.87
+			Rotation:	0.00	0.00	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	12
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+}	
+PowerCore:	
+{	
+	Hp:	550.00
+	Firewall:	0.30
+	Power:	100.00
+	EnergyRecharge:	1.00
+	Feedback:	0.00
+}	
+Propulsion:	
+{	
+	Hp:	2200.00
+	Firewall:	0.00
+	Speed:	60.00
+	Acceleration:	1.00
+	PowerToEngines:	2.00
+}	
+Sensors:	
+{	
+	Hp:	550.00
+	Firewall:	0.00
+	SensorRadius:	2000.00
+	Detection:	0.10
+}	
+Grappler:	
+{	
+	Hp:	550.00
+	Firewall:	0.00
+	GrappleRange:	230.00
+	Overload:	0.00
+}	
+Transporter:	
+{	
+	Hp:	550.00
+	Firewall:	0.00
+	TransportRange:	1000.00
+	Capacity:	4.00
+	Deflection:	0.00
+}	
+Hangar:	
+{	
+	Hp:	0.00
+	Firewall:	0.00
+	PreLaunch:	0.00
+	Fuel:	0.00
+	WingNo:	0
+}	
+Cloak:	
+{	
+	Hp:	0.00
+	Firewall:	0.00
+	CloakStrength:	0.50
+	ClaokStability:	0.50
+}	
+ShipShields:	
+{	
+	Strength:	1750.00
+	Recharge:	6.00
+	Reboot:	5.00
+	HP:	550.00
+	Firewall:	0.00
+	Biometric:	0.20
+	ResistanceEnergy:	0.00
+	ResistanceProjectile:	0.00
+	ResistancePlasma:	0.00
+	ResistanceRadiation:	0.20
+	ResistanceEMP:	0.15
+}	
+ShipShieldsMesh:	
+{	
+	MeshName:	Data\Models\Sphere\ShipSphereShield7_2.mdl
+	Scale:	11.00	8.00	15.00
+	Position:	1.00	0.50	0.00
+}	
+ShipDerelict:	
+{	
+	Derelict:	STALWART
+}	
+Events:	
+{	
+		OnDestroy:	Data\Scripts\ShipDefault\OnDestroy.sal
+		OnCriticalHit:	Data\Scripts\ShipDefault\OnCritical.sal
+		OnHP75:	Data\Scripts\ShipDefault\OnHP75.sal
+		OnHP50:	Data\Scripts\ShipDefault\OnHP50.sal
+		OnHP25:	Data\Scripts\ShipDefault\OnHP25.sal
+		OnTDriveEnd:	Data\SpecialEffect\TDriveFlash\deactivation.sal
+		OnTransport:	Data\Scripts\ShipDefault\OnTransport.sal
+		OnTargetLock:	Data\Scripts\ShipDefault\OnTargetLock.sal
+}	
+MountedCamera:	
+{	
+	Position:	-0.00	5.40	-12.00
+	HorizontalOffset:	0.00
+	VerticalOffset:	-0.10
+	FrontCamPosition: 0.00	-1.00	-7.50
+}	

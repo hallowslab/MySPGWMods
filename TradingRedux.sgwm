@@ -1,0 +1,9 @@
+txt
+Version: 1000
+Mod:
+{
+   Name: TradingRedux
+   Author: Hallows Tech Labs
+   Description: Raises freighters and freightliners cargo hold and amount of commodities for sale on planets
+   Picture: Mods\TradingRedux\trading_redux.jpg
+}

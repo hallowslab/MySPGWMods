@@ -1,0 +1,274 @@
+txt	
+ShipModel:	
+{	
+		Name:	Data\Models\Ships\Artisan\Artisan.asb
+}	
+ShipBase:	
+{	
+		Name:	Artisan
+		Value:	7500000
+		Maneuver:	1.35
+		Hull:	40000.00
+		Cargo:	650
+		Crew:	65
+		Hangar:	0
+		Cloak:	0
+		Descript:	CHA_ARTISAN_TXT
+		Soak:	0.05
+		Mass:	175.00
+		AngularDamping:	0.00
+		Evasion:	0.01
+		LandingPoint:	0.00	-3.20	0.00
+}	
+ShipEffectPoints:	
+{	
+	No:	16
+	0.84	-1.30	5.53
+	2.45	-1.32	5.13
+	2.46	-2.28	1.17
+	3.06	1.61	1.43
+	3.28	0.00	-1.78
+	3.58	-1.77	-4.51
+	2.55	0.10	-4.86
+	1.37	0.17	-5.89
+	-0.84	-1.30	5.53
+	-2.45	-1.32	5.13
+	-2.46	-2.28	1.17
+	-3.06	1.61	1.43
+	-3.28	0.00	-1.78
+	-3.58	-1.77	-4.51
+	-2.55	0.10	-4.86
+	-1.37	0.17	-5.89
+}	
+ShipTrails:	
+{	
+	Particles:	4
+	TrailModelsStart:	8
+	TrailModels:	1
+	TrailSizeMin:	0.40
+	TrailSizeMax:	6.00
+	Trail:	
+	{	
+		TrailLengthMax:	100.0
+		Position:	-2.0	1.60	-5.90
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		TrailLengthMax:	100.0
+		Position:	2.0	1.60	-5.90
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		TrailLengthMax:	100.0
+		Position:	0.00	-0.35	-5.90
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		TrailLengthMax:	100.0
+		Position:	0.00	0.75	-6.20
+		Width:	0.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	-2.00	1.70	-5.90
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	2.00	1.70	-5.90
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	0.00	0.80	-6.60
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	0
+		Position:	0.00	-0.30	-6.30
+	}	
+}	
+ShipWeapons:	
+{	
+	WeaponsPower:	90.00
+	WeaponsPowerRefill:	4.50
+	WeaponsPowerDownTime:	12.00
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	0.00	-2.34	5.10
+			Rotation:	0.00	0.00	3.14
+			Scale:	0
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.33
+			VerticalArcPlus:	2.90
+		}	
+		TurretSlot:	
+		{	
+			Position:	-2.52	1.78	0.09
+			Rotation:	0.00	0.00	1.21
+			Scale:	0
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.34
+			VerticalArcPlus:	3.10
+		}	
+		TurretSlot:	
+		{	
+			Position:	2.52	1.78	0.09
+			Rotation:	0.00	0.00	-1.21
+			Scale:	0
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.34
+			VerticalArcPlus:	3.10
+		}	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+}	
+ShipHeavyWeapons:	
+{	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	-0.11	7.56
+			Rotation:	0.00	0.00	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	15
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+	}	
+}	
+PowerCore:	
+{	
+	Hp:	2000.00
+	Firewall:	0.30
+	Power:	140.00
+	EnergyRecharge:	1.00
+	Feedback:	0.00
+}	
+Propulsion:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	Speed:	60.00
+	Acceleration:	1.00
+	PowerToEngines:	4.00
+}	
+Sensors:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	SensorRadius:	2000.00
+	Detection:	0.10
+}	
+Grappler:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	GrappleRange:	230.00
+	Overload:	0.00
+}	
+Transporter:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	TransportRange:	1000.00
+	Capacity:	5.00
+	Deflection:	0.00
+}	
+Hangar:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	PreLaunch:	0.00
+	Fuel:	0.00
+	WingNo:	0
+}	
+Cloak:	
+{	
+	Hp:	2000.00
+	Firewall:	0.00
+	CloakStrength:	0.50
+	ClaokStability:	0.50
+}	
+ShipShields:	
+{	
+	Strength:	3750.00
+	Recharge:	12.50
+	Reboot:	10.00
+	HP:	2000.00
+	Firewall:	0.00
+	Biometric:	0.20
+	ResistanceEnergy:	0.00
+	ResistanceProjectile:	0.00
+	ResistancePlasma:	0.00
+	ResistanceRadiation:	0.20
+	ResistanceEMP:	0.15
+}	
+ShipShieldsMesh:	
+{	
+	MeshName:	Data\Models\Sphere\ShipSphereShield7_2.mdl
+	Scale: 9.00	9.00	19.00
+
+}	
+ShipDerelict:	
+{	
+	Derelict:	ARTISAN
+}	
+Events:	
+{	
+		OnDestroy:	Data\Scripts\ShipDefault\OnDestroy.sal
+		OnCriticalHit:	Data\Scripts\ShipDefault\OnCritical.sal
+		OnHP75:	Data\Scripts\ShipDefault\OnHP75.sal
+		OnHP50:	Data\Scripts\ShipDefault\OnHP50.sal
+		OnHP25:	Data\Scripts\ShipDefault\OnHP25.sal
+		OnTDriveEnd:	Data\SpecialEffect\TDriveFlash\deactivation.sal
+		OnTransport:	Data\Scripts\ShipDefault\OnTransport.sal
+		OnTargetLock:	Data\Scripts\ShipDefault\OnTargetLock.sal
+}	
+MountedCamera:	
+{	
+	Position:	-0.00	2.99	-1.1
+	HorizontalOffset:	0.00
+	VerticalOffset:	114.5
+	FrontCamPosition: 0.00	-1.00	-7.50
+}	

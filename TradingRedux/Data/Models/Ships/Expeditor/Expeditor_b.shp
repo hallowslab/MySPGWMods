@@ -1,0 +1,334 @@
+txt	
+ShipModel:	
+{	
+		Name:	Data\Models\Ships\Expeditor\Expeditor_b.asb
+}	
+ShipBase:	
+{	
+		Name:	Expeditor
+		Value:	45000000
+		Maneuver:	1.00
+		Hull:	100000.00
+		Cargo:	2200
+		Crew:	90
+		Hangar:	0
+		Cloak:	0
+		Descript:	CHA_EXPEDITOR_TXT
+		Soak:	0.05
+		Mass:	600.00
+		AngularDamping:	0.00
+		Evasion:	0.01
+		LandingPoint:	0.00	-4.00	0.00
+}	
+ShipEffectPoints:	
+{	
+	No:	16
+	0.84	-1.30	5.53
+	2.45	-1.32	5.13
+	2.46	-2.28	1.17
+	3.06	1.61	1.43
+	3.28	0.00	-1.78
+	3.58	-1.77	-4.51
+	2.55	0.10	-4.86
+	1.37	0.17	-5.89
+	-0.84	-1.30	5.53
+	-2.45	-1.32	5.13
+	-2.46	-2.28	1.17
+	-3.06	1.61	1.43
+	-3.28	0.00	-1.78
+	-3.58	-1.77	-4.51
+	-2.55	0.10	-4.86
+	-1.37	0.17	-5.89
+}	
+ShipTrails:	
+{	
+	Particles:	4
+	TrailModelsStart:	14
+	TrailModels:	1
+	TrailSizeMin:	0.60
+	TrailSizeMax:	4.70
+	Trail:	
+	{	
+		Position:	0.000	-1.250	-29.600
+		TrailLengthMax:	100.000
+		Width:	1.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		Position:	0.000	0.400	-29.600
+		TrailLengthMax:	100.000
+		Width:	1.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		Position:	2.900	0.800	-27.500
+		TrailLengthMax:	100.000
+		Width:	1.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	Trail:	
+	{	
+		Position:	-2.900	0.800	-27.500
+		TrailLengthMax:	100.000
+		Width:	1.500
+		EndFadeFactor:	1
+		PatchId:	0
+		Color:	0.07	0.04	0.00
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	2
+		Position:	0.00	-1.20	-28.20
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	2
+		Position:	0.00	0.40	-28.90
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	2
+		Position:	3.00	0.80	-25.90
+	}	
+	PTEParticleEmitter:	
+	{	
+		Size:	2
+		Position:	-2.95	0.80	-25.90
+	}	
+}	
+ShipWeapons:	
+{	
+	WeaponsPower:	180.00
+	WeaponsPowerRefill:	3.00
+	WeaponsPowerDownTime:	11.00
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	-3.49	-2.07	10.45
+			Rotation:	0.00	0.00	1.54
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	-0.08
+			VerticalArcPlus:	3.10
+		}	
+		TurretSlot:	
+		{	
+			Position:	-3.49	-2.07	10.45
+			Rotation:	0.00	0.00	1.54
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	-0.08
+			VerticalArcPlus:	3.10
+		}	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	3.49	-2.07	10.45
+			Rotation:	0.00	0.00	1.54
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	-0.08
+			VerticalArcPlus:	3.10
+		}	
+		TurretSlot:	
+		{	
+			Position:	3.49	-2.07	10.45
+			Rotation:	0.00	0.00	1.54
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	-0.08
+			VerticalArcPlus:	3.10
+		}	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	0.00	3.48	19.71
+			Rotation:	0.00	0.00	0.00
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.00
+			VerticalArcPlus:	3.10
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.00	3.48	-17.95
+			Rotation:	0.00	0.00	0.00
+			Scale:	1
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	0.00
+			VerticalArcPlus:	3.10
+		}	
+	}	
+	WeaponBattery:	
+	{	
+	}	
+}	
+ShipHeavyWeapons:	
+{	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	-1.90	-0.33	0.57
+			Rotation:	0.00	-1.56	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	25
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	1.90	-0.33	0.57
+			Rotation:	0.00	1.56	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	25
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.00	30.50
+			Rotation:	0.00	0.00	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	25
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	-2.66	-27.89
+			Rotation:	0.00	3.12	0.00
+			HorizontalArcMinus:	3.20
+			HorizontalArcPlus:	3.20
+			VerticalArcMinus:	3.20
+			VerticalArcPlus:	3.20
+			Ammo:	25
+		}	
+	}	
+}	
+PowerCore:	
+{	
+	Hp:	5000.00
+	Firewall:	0.30
+	Power:	200.00
+	EnergyRecharge:	1.00
+	Feedback:	0.00
+}	
+Propulsion:	
+{	
+	Hp:	10000.00
+	Firewall:	0.00
+	Speed:	60.00
+	Acceleration:	1.00
+	PowerToEngines:	3.75
+}	
+Sensors:	
+{	
+	Hp:	5000.00
+	Firewall:	0.00
+	SensorRadius:	2000.00
+	Detection:	0.10
+}	
+Grappler:	
+{	
+	Hp:	5000.00
+	Firewall:	0.00
+	GrappleRange:	230.00
+	Overload:	0.00
+}	
+Transporter:	
+{	
+	Hp:	5000.00
+	Firewall:	0.00
+	TransportRange:	1000.00
+	Capacity:	6.00
+	Deflection:	0.00
+}	
+Hangar:	
+{	
+	Hp:	0.00
+	Firewall:	0.00
+	PreLaunch:	0.00
+	Fuel:	0.00
+	WingNo:	0
+}	
+Cloak:	
+{	
+	Hp:	0.00
+	Firewall:	0.00
+	CloakStrength:	0.50
+	ClaokStability:	0.50
+}	
+ShipShields:	
+{	
+	Strength:	5000.00
+	Recharge:	16.67
+	Reboot:	18.00
+	HP:	5000.00
+	Firewall:	0.00
+	Biometric:	0.20
+	ResistanceEnergy:	0.00
+	ResistanceProjectile:	0.00
+	ResistancePlasma:	0.00
+	ResistanceRadiation:	0.20
+	ResistanceEMP:	0.15
+}	
+ShipShieldsMesh:	
+{	
+	MeshName:	Data\Models\Sphere\ShipSphereShield7_2.mdl
+	Scale:	15.00	15.00	67.20
+	Position:	0.00	0.00	0.00
+}	
+ShipDerelict:	
+{	
+	Derelict:	EXPEDITOR
+}	
+Events:	
+{	
+		OnDestroy:	Data\Scripts\ShipDefault\OnDestroy.sal
+		OnCriticalHit:	Data\Scripts\ShipDefault\OnCritical.sal
+		OnHP75:	Data\Scripts\ShipDefault\OnHP75.sal
+		OnHP50:	Data\Scripts\ShipDefault\OnHP50.sal
+		OnHP25:	Data\Scripts\ShipDefault\OnHP25.sal
+		OnTDriveEnd:	Data\SpecialEffect\TDriveFlash\deactivation.sal
+		OnTransport:	Data\Scripts\ShipDefault\OnTransport.sal
+		OnTargetLock:	Data\Scripts\ShipDefault\OnTargetLock.sal
+}	
+MountedCamera:	
+{	
+	Position:	-0.00	4.99	2.90
+	HorizontalOffset:	0.00
+	VerticalOffset:	0.00
+	FrontCamPosition: 0.00	-1.00	-7.50
+}	
