@@ -1,27 +1,27 @@
 txt
 CommoditiesGroup:	ORE
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 CommoditiesGroup:	GAS
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 CommoditiesGroup:	CONSUMABLE
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 CommoditiesGroup:	MATERIAL
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 CommoditiesGroup:	COMPONENT
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 CommoditiesGroup:	PRODUCT
 {
-	Quantity:	1000
+	Quantity:	2000
 }
 Commodity:	ICE
 {

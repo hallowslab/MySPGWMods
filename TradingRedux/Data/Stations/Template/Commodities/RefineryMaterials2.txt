@@ -2,32 +2,32 @@ txt
 CommoditiesGroup:	ORE
 {	
 	PriceModifier:	1.25
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	GAS
 {	
 	PriceModifier:	1.25
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	CONSUMABLE
 {	
 	PriceModifier:	1.00
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	MATERIAL
 {	
 	PriceModifier:	0.50
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	COMPONENT
 {	
 	PriceModifier:	0.75
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	PRODUCT
 {	
 	PriceModifier:	0.50
-	Quantity:	500
+	Quantity:	1000
 }
 Commodity:	UNIGLASS
 {

@@ -2,22 +2,22 @@ txt
 CommoditiesGroup:	ORE
 {	
 	PriceModifier:	0.50
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	MATERIAL
 {	
 	PriceModifier:	1.25
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	COMPONENT
 {	
 	PriceModifier:	1.25
-	Quantity:	500
+	Quantity:	1000
 }
 CommoditiesGroup:	PRODUCT
 {	
 	PriceModifier:	0.60
-	Quantity:	500
+	Quantity:	1000
 }
 Commodity:	ENERGY_CELLS
 {

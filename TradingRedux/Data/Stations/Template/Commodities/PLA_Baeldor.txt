@@ -2,32 +2,32 @@ txt
 CommoditiesGroup:	ORE
 {	
 	PriceModifier:	0.70
-	Quantity:	1500
+	Quantity:	3000
 }
 CommoditiesGroup:	GAS
 {	
 	PriceModifier:	0.70
-	Quantity:	1500
+	Quantity:	3000
 }
 CommoditiesGroup:	CONSUMABLE
 {	
 	PriceModifier:	1.00
-	Quantity:	1500
+	Quantity:	3000
 }
 CommoditiesGroup:	MATERIAL
 {	
 	PriceModifier:	0.70
-	Quantity:	1500
+	Quantity:	3000
 }
 CommoditiesGroup:	COMPONENT
 {	
 	PriceModifier:	0.70
-	Quantity:	1500
+	Quantity:	3000
 }
 CommoditiesGroup:	PRODUCT
 {	
 	PriceModifier:	0.70
-	Quantity:	1500
+	Quantity:	3000
 }
 Commodity:	CARBON
 {

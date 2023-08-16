@@ -1,27 +1,27 @@
 txt
 CommoditiesGroup:	ORE
 {
-	Quantity:	600
+	Quantity:	1200
 }
 CommoditiesGroup:	GAS
 {
-	Quantity:	600
+	Quantity:	1200
 }
 CommoditiesGroup:	CONSUMABLE
 {
-	Quantity:	600
+	Quantity:	1200
 }
 CommoditiesGroup:	MATERIAL
 {
-	Quantity:	600
+	Quantity:	1200
 }
 CommoditiesGroup:	COMPONENT
 {
-	Quantity:	600
+	Quantity:	1200
 }
 CommoditiesGroup:	PRODUCT
 {
-	Quantity:	600
+	Quantity:	1200
 }
 Commodity:	IONIDE
 {
