@@ -1,0 +1,358 @@
+txt	
+LoadDistance:	12000
+UnloadDistance:	15000
+UpdateDistance:	8000
+ReleaseDistance:	99999
+BuildStatus:	2
+BuildLevel:	0
+OnConstruction0:	Data\Scripts\PlatformDefault\OnConstruction0.sal
+OnConstruction50:	Data\Scripts\PlatformDefault\OnConstruction50.sal
+OnConstruction100:	Data\Scripts\PlatformDefault\OnConstruction100.sal
+Tier:
+{
+	WhaleModel:	Data\Models\Platforms\Outpost\Upgrade1\OUTPOST_UPGRADE_1.asb
+	Hull:	15000.00
+	Name:	outpost
+	Descript:	forwardOutpost
+	ConstructionTimeRequired:	50.0
+	OreConstructionCost:	1200
+	GasConstructionCost:	500
+	MaterialConstructionCost:	1000
+	OreYield:	0.0
+	GasYield:	0.0
+	MaterialYield:	0.0
+	PlatformFleetPower:	1000
+}
+Tier:
+{
+	WhaleModel:	Data\Models\Platforms\Outpost\Upgrade2\OUTPOST_UPGRADE_2.asb
+	Hull:	15000.00
+	Name:	guardpost
+	Descript:	guardpost
+	ConstructionTimeRequired:	50.0
+	OreConstructionCost:	1200
+	GasConstructionCost:	500
+	MaterialConstructionCost:	1000
+	OreYield:	0.0
+	GasYield:	0.0
+	MaterialYield:	0.0
+	PlatformFleetPower:	2200
+}
+Tier:
+{
+	WhaleModel:	Data\Models\Platforms\Outpost\Upgrade3\OUTPOST_UPGRADE_3.asb
+	Hull:	15000.00
+	Name:	garrison
+	Descript:	garrison
+	ConstructionTimeRequired:	50.0
+	OreConstructionCost:	1200
+	GasConstructionCost:	500
+	MaterialConstructionCost:	1000
+	OreYield:	0.0
+	GasYield:	0.0
+	MaterialYield:	0.0
+	PlatformFleetPower:	5000
+}
+Tier:
+{
+	WhaleModel:	Data\Models\Platforms\Outpost\Upgrade3\OUTPOST_UPGRADE_3.asb
+	Hull:	15000.00
+	Name:	garrison
+	Descript:	garrison
+	ConstructionTimeRequired:	75.0
+	OreConstructionCost:	2400
+	GasConstructionCost:	1000
+	MaterialConstructionCost:	2000
+	OreYield:	0.0
+	GasYield:	0.0
+	MaterialYield:	0.0
+	PlatformFleetPower:	7500
+}
+ShipBase:	
+{	
+	Crew:	100
+	Hangar:	0
+	Soak:	0.00
+	EnterRadius:	3000.0
+	ExitRadius:	3500.0
+}	
+ShipEffectPoints:
+{
+		No:	1
+		-7.66	0.87	2.13
+}
+ShipWeapons:	
+{	
+	WeaponsPower:	500.00
+	WeaponsPowerRefill:	100.00
+	WeaponsPowerDownTime:	0.00
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	0.19	94.43	194.63
+			Rotation:	1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.07	33.89	194.75
+			Rotation:	1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.40	140.47	187.12
+			Rotation:	1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.22	68.52	194.53
+			Rotation:	1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	0.72	85.32	-182.08
+			Rotation:	-1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	-0.48	37.64	-181.84
+			Rotation:	-1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.02	142.99	-174.23
+			Rotation:	-1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	0.08	65.51	-181.95
+			Rotation:	-1.57	0.00	0.00
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	-193.39	-263.84	5.35
+			Rotation:	0.00	0.00	1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	-193.28	-283.73	5.35
+			Rotation:	0.00	0.00	1.57
+			Scale:	1
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	-193.73	-223.51	5.34
+			Rotation:	0.00	0.00	1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	-193.39	-300.09	5.53
+			Rotation:	0.00	0.00	1.57
+			Scale:	1
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+	}	
+	WeaponBattery:	
+	{	
+		TurretSlot:	
+		{	
+			Position:	193.74	-225.74	5.19
+			Rotation:	0.00	0.00	-1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	193.92	-294.86	5.41
+			Rotation:	0.00	0.00	-1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	193.68	-267.26	5.39
+			Rotation:	0.00	0.00	-1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+		TurretSlot:	
+		{	
+			Position:	193.61	-280.76	5.31
+			Rotation:	0.00	0.00	-1.57
+			Scale:	2
+			HorizontalArcMinus:	3.15
+			HorizontalArcPlus:	3.15
+			VerticalArcMinus:	3.15
+			VerticalArcPlus:	3.15
+		}	
+	}	
+}	
+ShipHeavyWeapons:	
+{	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.00	0.00
+			Rotation:	0.00	-1.56	0.00
+			HorizontalArcMinus:	0.70
+			HorizontalArcPlus:	0.70
+			VerticalArcMinus:	0.70
+			VerticalArcPlus:	0.70
+			Ammo:	1000
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.00	0.00
+			Rotation:	0.00	1.56	0.00
+			HorizontalArcMinus:	0.70
+			HorizontalArcPlus:	0.70
+			VerticalArcMinus:	0.70
+			VerticalArcPlus:	0.70
+			Ammo:	1000
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.00	0.00
+			Rotation:	0.00	0.00	0.00
+			HorizontalArcMinus:	0.70
+			HorizontalArcPlus:	0.70
+			VerticalArcMinus:	0.70
+			VerticalArcPlus:	0.70
+			Ammo:	1000
+		}	
+	}	
+	HeavyWeaponBattery:	
+	{	
+		Launcher:	
+		{	
+			Position:	0.00	0.00	0.00
+			Rotation:	0.00	3.12	0.00
+			HorizontalArcMinus:	0.70
+			HorizontalArcPlus:	0.70
+			VerticalArcMinus:	0.70
+			VerticalArcPlus:	0.70
+			Ammo:	1000
+		}	
+	}	
+}	
+PowerCore:	
+{	
+	Hp:	500.00
+	Firewall:	0.30
+	Power:	45.00
+	EnergyRecharge:	4.00
+	Feedback:	0.00
+}	
+Sensors:	
+{	
+	Hp:	500.00
+	Firewall:	0.00
+	SensorRadius:	2000.00
+	Detection:	0.25
+}	
+Grappler:	
+{	
+	Hp:	500.00
+	Firewall:	0.10
+	GrappleRange:	500.00
+	Overload:	0.00
+}	
+Hangar:	
+{	
+	Hp:	0.00
+	Firewall:	0.00
+	PreLaunch:	0.00
+	Fuel:	0.00
+	WingNo:	0
+}
+Events:	
+{	
+	OnDestroy:	Data\Scripts\Empty.sal
+	OnTransport:	Data\Scripts\PlatformDefault\OnTransport.sal
+	OnCapture:	Data\Scripts\PlatformDefault\OnCapture.sal
+	OnHP75:	Data\Scripts\PlatformDefault\OnHp75.sal
+	OnHP50:	Data\Scripts\PlatformDefault\OnHp50.sal
+	OnHP25:	Data\Scripts\PlatformDefault\OnHp25.sal
+	OnEnter:	Data\Scripts\PlatformDefault\OnEnter.sal
+	OnExit:	Data\Scripts\PlatformDefault\OnExit.sal
+	OnHail:	Data\Scripts\PlatformDefault\OnHail.sal
+}	
