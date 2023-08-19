@@ -1,0 +1,42 @@
+/* Script by: [Hallows Tech Labs], [2023] */
+
+int playerFac = 0 ;
+int structFac = 0 ;
+int align = 0 ;
+array str regionArray ; 
+array str platArray ; 
+int id = 0 ; 
+int imax = 0 ;
+int i = 0 ;
+str keyName = NONE ;
+
+/* Couldn't get the region's faction */
+/* For each region in array */
+for i = 0 < imax step 1
+  array Get regionArray keyName i ;
+
+  /* Get alignment of the region */
+  int regionAlign = 0 ;
+  region GetKeyName keyName ;
+  region GetAlign playerFac regionAlign ;
+  PrintMessageVar BO_REGION_ALIGN: INT regionAlign ;
+
+  /* Compare alignment with player's faction */
+  if regionAlign == playerFac
+    /* This region belongs to the player's faction */
+    PrintMessageVar BO_REGION_KEYNAME: STR keyName ;
+    string regionKeyName = NONE ;
+    region GetKeyName regionKeyName ;
+    PrintMessageVar BO_REGION: STR regionKeyName ;
+
+    /* Now you can proceed to add platforms from this region to your array */
+    array str platformArray ;
+    array AddObjectSTR platformArray region Platform keyName ;
+    int platformCount = 0 ;
+    array GetElementNum platformArray platformCount ;
+
+    PrintMessageVar TOTAL_PLATFORMS_IN_REGION: INT platformCount ;
+  endif
+endfor
+
+End

@@ -1,62 +1,39 @@
 /* Script by: [Hallows Tech Labs], [2023] */
 
-/* Variables */
-int sort = 0 ;
-int outpostSort = 10 ;
-array str tempOutposts ;
-array str playerOutposts ;
-int maxFleetPower = 0 ;
-int powerIncrement = 0 ;
-int tier = 0 ;
-str keyName = NONE ;
-int i = 0 ;
+int playerFac = 0 ;
+array str regionArray ; 
+array str platformArray ;  /* Array to store platform keyNames */
 int imax = 0 ;
-str playerFac = NONE ;
-str outpostFac = NONE ;
-
+int i = 0 ;
+str keyName = NONE ;
 
 /* Get player faction */
 ship GetPlayer GetFaction playerFac ;
-PrintMessageVar BO_PLAYER_FACTION: STR playerFac ;
 
-/* Get all structures */
-array AddObjectSTR tempOutposts structures InWorld ; 
-array GetElementNum tempOutposts imax ; 
-PrintMessageVar BO_TOTAL_OUTPOSTS: INT imax ; 
+/* Get all regions */
+array AddObjectSTR regionArray regionInWorld ; 
+array GetElementNum regionArray imax ; 
+PrintMessageVar BO_TOTAL_REGIONS: INT imax ; 
 
-/* Loop trough the structures */
+/* For each region in array */
 for i = 0 < imax step 1 
-  array Get tempOutposts keyName i ; 
-  structure GetByKeyName keyName GetSort sort ;
-  structure GetByKeyName keyName GetFaction outpostFac ;
-  structure GetByKeyName keyName GetBuildLevel tier ;
-  if outpostFac == playerFac
-    PrintMessageVar BO_STRUCTURE_KEYNAME: str keyName ;
-    PrintMessageVar BO_STRUCTURE_FACTION: str outpostFac ;
-    PrintMessageVar BO_STRUCTURE_SORT: int sort ;
-    PrintMessageVar BO_STRUCTURE_TIER: int tier ;
-  endif
+    array Get regionArray keyName i ; 
+    PrintMessageVar BO_REGION_KEYNAME: STR keyName ; 
+    
+    /* Get all platforms in the current region and add to platformArray */
+    array AddObjectSTR platformArray region Platform keyName ;
 endfor 
 
-float3 position = 0.0 0.0 0.0 ;
-str alignment = NONE ;
-str faction = CONCORD ;
-int FOWVisible = -1 ;
-str structureSort = SRT_OUTPOST ;
-str objectKN = NONE ;
-game GetNearestStructure position alignment faction FOWVisible structureSort objectKN ;
-PrintMessageVar TBO_STRUCTUREKN: STR objectKN ;
-if objectKN == NONE
-  PrintMessage TBO_NO_STRUCTURE_FOUND ;
-elsif
-  structure GetByKeyName objectKN GetSort sort ;
-  structure GetByKeyName objectKN GetFaction outpostFac ;
-  structure GetByKeyName objectKN GetBuildLevel tier ;
-  PrintMessageVar BO_STRUCTURE_KEYNAME: str objectKN ;
-  PrintMessageVar BO_STRUCTURE_FACTION: str outpostFac ;
-  PrintMessageVar BO_STRUCTURE_SORT: int sort ;
-  PrintMessageVar BO_STRUCTURE_TIER: int tier ;
-endif
+/* Now, loop through the platformArray and process each platform */
+array GetElementNum platformArray imax ;
+PrintMessageVar BO_TOTAL_PLATFORMS: INT imax ; 
 
+for i = 0 < imax step 1
+    array Get platformArray keyName i ;
+    PrintMessageVar BO_PLATFORM_KEYNAME: STR keyName ;
+    
+    /* Here, you can access properties of the platform using keyName */
+    /* Perform calculations and adjustments based on platform properties */
+endfor 
 
 End
