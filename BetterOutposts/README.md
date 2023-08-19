@@ -1,6 +1,6 @@
 ### Dev notes:
 
-Outposts cannot be accessed trough station, it seems to be a structure however looping trough all structures in the world does not seem to include any of the forward_outposts/Garrison there is also the platform object that probably contains the structures
+Outposts cannot be accessed trough station object, it seems to be a structure however looping trough all structures in the world does not seem to include any of the forward_outposts/Garrison there is also the platform object that does contain keynames like `<FO_123>` that refer to the outposts
 ```
 # Stations.wdt
 Id	KeyName	Type

@@ -1,14 +1,18 @@
 /* Script by: [Hallows Tech Labs], [2023] */
 
 int playerFac = 0 ;
+int platFac = 0 ;
+int platTier = 0 ;
 array str regionArray ; 
 array str platformArray ;  /* Array to store platform keyNames */
 int imax = 0 ;
 int i = 0 ;
 str keyName = NONE ;
+int varExist = 0 ;
 
 /* Get player faction */
 ship GetPlayer GetFaction playerFac ;
+PrintMessageVar BO_PLAYER_FACTION: INT playerFac ;
 
 /* Get all regions */
 array AddObjectSTR regionArray regionInWorld ; 
@@ -18,7 +22,7 @@ PrintMessageVar BO_TOTAL_REGIONS: INT imax ;
 /* For each region in array */
 for i = 0 < imax step 1 
     array Get regionArray keyName i ; 
-    PrintMessageVar BO_REGION_KEYNAME: STR keyName ; 
+    /* PrintMessageVar BO_REGION_KEYNAME: STR keyName ; */
     
     /* Get all platforms in the current region and add to platformArray */
     array AddObjectSTR platformArray region Platform keyName ;
@@ -30,10 +34,48 @@ PrintMessageVar BO_TOTAL_PLATFORMS: INT imax ;
 
 for i = 0 < imax step 1
     array Get platformArray keyName i ;
-    PrintMessageVar BO_PLATFORM_KEYNAME: STR keyName ;
-    
-    /* Here, you can access properties of the platform using keyName */
-    /* Perform calculations and adjustments based on platform properties */
+    platform GetByKeyName keyName GetFaction platFac ;
+
+    /* If structure in player faction */
+    if platFac == playerFac
+      PrintMessageVar BO_PLATFORM_KEYNAME: STR keyName ;
+    endif
+
+    if keyName == FO_*
+      PrintMessageVar BO_PLATFORM_KEYNAME: STR keyName ;
+    endif
 endfor 
+
+float3 position ;
+ship GetPlayer GetPosition position ;
+str alignment = NONE ;
+str faction = CONCORD ;
+int FOWVisible = -1 ;
+str objectKN = NONE ;
+
+game GetNearestPlatform position alignment faction FOWVisible objectKN ;
+PrintMessageVar BO_NEAREST_PLATFORM_KEYNAME: STR objectKN ;
+
+platform GetByKeyName objectKN GetObjectVar IsExist tier varExist ;
+PrintMessageVar BO_VAR_1: INT varExist ;
+
+platform GetByKeyName objectKN GetObjectVar IsExist hull varExist ;
+PrintMessageVar BO_VAR_2: INT varExist ;
+
+platform GetByKeyName objectKN GetObjectVar IsExist scaned varExist ;
+PrintMessageVar BO_VAR_3: INT varExist ;
+
+platform GetByKeyName objectKN GetObjectVar IsExist Hacked varExist ;
+PrintMessageVar BO_VAR_4: INT varExist ;
+
+str stringVariable = Concordia ; 
+str nvar = NONE ;
+ship GetPlayer GetObjectVar IsExist lastVisitedStation varExist ;
+PrintMessageVar BO_VAR_5: INT varExist ;
+ship GetPlayer GetObjectVar SetVarStr lastVisitedStation stringVariable ;
+ship GetPlayer GetObjectVar GetVarStr lastVisitedStation nvar ;
+PrintMessageVar BO_VAR_6: STR nvar ;
+ship GetPlayer GetObjectVar IsExist lastVisitedStation varExist ;
+PrintMessageVar BO_VAR_5: INT varExist ;
 
 End
