@@ -1,0 +1,9 @@
+txt
+Version: 1000
+Mod:
+{
+   Name: BetterOutposts
+   Author: Hallows Tech Labs
+   Description: Outposts have an additional tier, and each tier adds 500 points to the maximum fleet power
+   Picture: Mods\BetterOutposts\better_outposts.jpg
+}

@@ -1,0 +1,62 @@
+/* Script by: [Hallows Tech Labs], [2023] */
+
+/* Variables */
+int sort = 0 ;
+int outpostSort = 10 ;
+array str tempOutposts ;
+array str playerOutposts ;
+int maxFleetPower = 0 ;
+int powerIncrement = 0 ;
+int tier = 0 ;
+str keyName = NONE ;
+int i = 0 ;
+int imax = 0 ;
+str playerFac = NONE ;
+str outpostFac = NONE ;
+
+
+/* Get player faction */
+ship GetPlayer GetFaction playerFac ;
+PrintMessageVar BO_PLAYER_FACTION: STR playerFac ;
+
+/* Get all structures */
+array AddObjectSTR tempOutposts structures InWorld ; 
+array GetElementNum tempOutposts imax ; 
+PrintMessageVar BO_TOTAL_OUTPOSTS: INT imax ; 
+
+/* Loop trough the structures */
+for i = 0 < imax step 1 
+  array Get tempOutposts keyName i ; 
+  structure GetByKeyName keyName GetSort sort ;
+  structure GetByKeyName keyName GetFaction outpostFac ;
+  structure GetByKeyName keyName GetBuildLevel tier ;
+  if outpostFac == playerFac
+    PrintMessageVar BO_STRUCTURE_KEYNAME: str keyName ;
+    PrintMessageVar BO_STRUCTURE_FACTION: str outpostFac ;
+    PrintMessageVar BO_STRUCTURE_SORT: int sort ;
+    PrintMessageVar BO_STRUCTURE_TIER: int tier ;
+  endif
+endfor 
+
+float3 position = 0.0 0.0 0.0 ;
+str alignment = NONE ;
+str faction = CONCORD ;
+int FOWVisible = -1 ;
+str structureSort = SRT_OUTPOST ;
+str objectKN = NONE ;
+game GetNearestStructure position alignment faction FOWVisible structureSort objectKN ;
+PrintMessageVar TBO_STRUCTUREKN: STR objectKN ;
+if objectKN == NONE
+  PrintMessage TBO_NO_STRUCTURE_FOUND ;
+elsif
+  structure GetByKeyName objectKN GetSort sort ;
+  structure GetByKeyName objectKN GetFaction outpostFac ;
+  structure GetByKeyName objectKN GetBuildLevel tier ;
+  PrintMessageVar BO_STRUCTURE_KEYNAME: str objectKN ;
+  PrintMessageVar BO_STRUCTURE_FACTION: str outpostFac ;
+  PrintMessageVar BO_STRUCTURE_SORT: int sort ;
+  PrintMessageVar BO_STRUCTURE_TIER: int tier ;
+endif
+
+
+End
