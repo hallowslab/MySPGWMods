@@ -1,0 +1,3 @@
+Colum:	12										
+Id	KeyName	Name	Group	Parent	Desc	Disabled	BonusId	BonusVal	BonusId2	BonusVal2	RankPrereq
+74  famTitan  famTitan  PERK_GR_0 -1  famTitan  0 241 0.25  242 -0.5  30

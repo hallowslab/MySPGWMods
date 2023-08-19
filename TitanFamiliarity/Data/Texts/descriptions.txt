@@ -1,0 +1,8 @@
+text: TitanIntegrity
+{
+	DMG absorb (in a Titan)
+}
+text: TitanManeuverability
+{
+	Sublight charge-up time (in a Titan)
+}

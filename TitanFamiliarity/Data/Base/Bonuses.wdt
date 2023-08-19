@@ -1,0 +1,4 @@
+Colum:	6				
+Id	KeyName	DescriptLine	Filter	ValueType	IsUsed
+241	SPGW241	TitanIntegrity	0	1	1
+242	SPGW242	TitanManeuverability	0	1	1
